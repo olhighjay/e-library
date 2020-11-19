@@ -1,1 +1,0 @@
-var jay = 'Jay';
