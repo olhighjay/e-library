@@ -11,15 +11,21 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "bootstrap": "^4.5.3",
     "chalk": "^4.1.0",
+    "cookie-parser": "^1.4.5",
     "debug": "^4.2.0",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
+    "express-session": "^1.17.1",
     "jquery": "^3.5.1",
+    "mongodb": "^3.6.3",
     "morgan": "^1.10.0",
     "mssql": "^6.2.3",
     "nodemon": "^2.0.6",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
     "pug": "^3.0.0"
   },
   "devDependencies": {
